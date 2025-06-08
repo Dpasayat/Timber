@@ -1,0 +1,62 @@
+﻿  Timber.cpp
+E:\SFML_Projects\Timber\Timber.cpp(20,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+E:\SFML_Projects\Timber\Timber.cpp(20,11): error C3484: syntax error: expected '->' before the return type
+E:\SFML_Projects\Timber\Timber.cpp(20,12): error C3613: missing return type after '->' ('int' assumed)
+E:\SFML_Projects\Timber\Timber.cpp(20,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SFML_Projects\Timber\Timber.cpp(20,1): error C2371: 'chopBuffer': redefinition; different basic types
+      E:\SFML_Projects\Timber\Timber.cpp(19,13):
+      see declaration of 'chopBuffer'
+  
+E:\SFML_Projects\Timber\Timber.cpp(20,12): error C2146: syntax error: missing ';' before identifier 'loadFromFile'
+E:\SFML_Projects\Timber\Timber.cpp(22,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+E:\SFML_Projects\Timber\Timber.cpp(22,5): error C3484: syntax error: expected '->' before the return type
+E:\SFML_Projects\Timber\Timber.cpp(22,6): error C3613: missing return type after '->' ('int' assumed)
+E:\SFML_Projects\Timber\Timber.cpp(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SFML_Projects\Timber\Timber.cpp(22,1): error C2371: 'chop': redefinition; different basic types
+      E:\SFML_Projects\Timber\Timber.cpp(21,7):
+      see declaration of 'chop'
+  
+E:\SFML_Projects\Timber\Timber.cpp(22,6): error C2146: syntax error: missing ';' before identifier 'setBuffer'
+E:\SFML_Projects\Timber\Timber.cpp(26,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+E:\SFML_Projects\Timber\Timber.cpp(26,12): error C3484: syntax error: expected '->' before the return type
+E:\SFML_Projects\Timber\Timber.cpp(26,13): error C3613: missing return type after '->' ('int' assumed)
+E:\SFML_Projects\Timber\Timber.cpp(26,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SFML_Projects\Timber\Timber.cpp(26,1): error C2371: 'deathBuffer': redefinition; different basic types
+      E:\SFML_Projects\Timber\Timber.cpp(25,13):
+      see declaration of 'deathBuffer'
+  
+E:\SFML_Projects\Timber\Timber.cpp(26,13): error C2146: syntax error: missing ';' before identifier 'loadFromFile'
+E:\SFML_Projects\Timber\Timber.cpp(28,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+E:\SFML_Projects\Timber\Timber.cpp(28,6): error C3484: syntax error: expected '->' before the return type
+E:\SFML_Projects\Timber\Timber.cpp(28,7): error C3613: missing return type after '->' ('int' assumed)
+E:\SFML_Projects\Timber\Timber.cpp(28,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SFML_Projects\Timber\Timber.cpp(28,1): error C2371: 'death': redefinition; different basic types
+      E:\SFML_Projects\Timber\Timber.cpp(27,7):
+      see declaration of 'death'
+  
+E:\SFML_Projects\Timber\Timber.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'setBuffer'
+E:\SFML_Projects\Timber\Timber.cpp(32,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+E:\SFML_Projects\Timber\Timber.cpp(32,10): error C3484: syntax error: expected '->' before the return type
+E:\SFML_Projects\Timber\Timber.cpp(32,11): error C3613: missing return type after '->' ('int' assumed)
+E:\SFML_Projects\Timber\Timber.cpp(32,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SFML_Projects\Timber\Timber.cpp(32,1): error C2371: 'ootBuffer': redefinition; different basic types
+      E:\SFML_Projects\Timber\Timber.cpp(31,13):
+      see declaration of 'ootBuffer'
+  
+E:\SFML_Projects\Timber\Timber.cpp(32,11): error C2146: syntax error: missing ';' before identifier 'loadFromFile'
+E:\SFML_Projects\Timber\Timber.cpp(34,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+E:\SFML_Projects\Timber\Timber.cpp(34,10): error C3484: syntax error: expected '->' before the return type
+E:\SFML_Projects\Timber\Timber.cpp(34,11): error C3613: missing return type after '->' ('int' assumed)
+E:\SFML_Projects\Timber\Timber.cpp(34,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SFML_Projects\Timber\Timber.cpp(34,1): error C2371: 'outOfTime': redefinition; different basic types
+      E:\SFML_Projects\Timber\Timber.cpp(33,7):
+      see declaration of 'outOfTime'
+  
+E:\SFML_Projects\Timber\Timber.cpp(34,11): error C2146: syntax error: missing ';' before identifier 'setBuffer'
+E:\SFML_Projects\Timber\Timber.cpp(241,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\SFML_Projects\Timber\Timber.cpp(263,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\SFML_Projects\Timber\Timber.cpp(312,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\SFML_Projects\Timber\Timber.cpp(317,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\SFML_Projects\Timber\Timber.cpp(341,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\SFML_Projects\Timber\Timber.cpp(342,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\SFML_Projects\Timber\Timber.cpp(368,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data

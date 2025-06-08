@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SFML_Projects\\Timber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22376B17-6AA8-4003-A62E-E065FF4AABD0}|Timber.vcxproj|E:\\SFML_Projects\\Timber\\Timber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22376B17-6AA8-4003-A62E-E065FF4AABD0}|Timber.vcxproj|solutionrelative:Timber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Timber.cpp",
+              "DocumentMoniker": "E:\\SFML_Projects\\Timber\\Timber.cpp",
+              "RelativeDocumentMoniker": "Timber.cpp",
+              "ToolTip": "E:\\SFML_Projects\\Timber\\Timber.cpp",
+              "RelativeToolTip": "Timber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T13:25:04.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
